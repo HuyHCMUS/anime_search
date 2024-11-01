@@ -10,7 +10,10 @@ Search anime characters based on uploaded images.
 ![Pipeline Diagram](pipeline.png)  
 
 ## Data Collection
-Collect the information, character, image of 8000 most popular anime on [Myanimelist](https://myanimelist.net/)
+
+Crawl on [Myanimelist](https://myanimelist.net/)
+
+Collect the information, character image of 8000 most popular anime 
 
 Data: [Download](https://huggingface.co/datasets/huyhamhoc/popular_anime_character)
 
