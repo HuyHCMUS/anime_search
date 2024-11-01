@@ -1,2 +1,2 @@
 # anime_search
-![](pipeline.jpg)
+![](pipeline.png)
