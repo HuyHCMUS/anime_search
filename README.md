@@ -13,7 +13,7 @@ Search anime characters based on uploaded images.
 
 Crawl on [Myanimelist](https://myanimelist.net/)
 
-Collect the information, character image of 8000 most popular anime 
+Collect the information, character's image of 8000 most popular anime 
 
 Data: [Download](https://huggingface.co/datasets/huyhamhoc/popular_anime_character)
 
