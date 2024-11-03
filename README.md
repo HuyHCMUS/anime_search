@@ -17,8 +17,8 @@ Collect the information, character's image of 8000 most popular anime
 
 Data: [Download](https://huggingface.co/datasets/huyhamhoc/popular_anime_character)
 
-## Image Preprocessing
-The preprocessing stage employs [YOLOv11](https://github.com/ultralytics/ultralytics) for face detection within images.
+## Detect anime character
+The preprocessing stage employs [YOLOv11](https://github.com/ultralytics/ultralytics) for detect anime character's face.
 
 Data to train model: [Download](https://huggingface.co/datasets/deepghs/anime_head_detection)
 
