@@ -29,7 +29,6 @@ logs/
 Thumbs.db
 
 # Machine learning models & datasets
-models/
 *.h5
 *.ckpt
 *.pt
