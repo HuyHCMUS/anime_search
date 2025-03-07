@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+logs/
+*.log
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+
+
+# VS Code settings
+.vscode/
+
+# IDE / Editor files
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Machine learning models & datasets
+models/
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+data/
+*.npy
+*.npz
+
+# FAISS index
+faiss_index/
+*.faiss
