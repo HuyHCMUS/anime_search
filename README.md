@@ -8,6 +8,8 @@ Search anime characters based on uploaded images.
 
 ## Pipeline
 ![Pipeline Diagram](pipeline.png)  
+## Example
+![Example](example.png)  
 
 ## Data Collection
 
@@ -33,7 +35,5 @@ Facial feature embeddings are extracted using various CNN models. The models exp
 
 The project employs [Faiss](https://github.com/facebookresearch/faiss) for efficient indexing and searching of facial embeddings. Faiss allows for fast retrieval of similar embeddings from a large dataset.
 
-## API and User Interface
-Backend: [FastAPI](https://fastapi.tiangolo.com/), processing and handling image uploads. 
-
+## User Interface
 User Interface: [Streamlit](https://streamlit.io/), enabling users to interactively upload images and view search results.
